@@ -1,0 +1,21 @@
+{
+  "name": "ab_jun19",
+  "type": "package",
+  "blockId": "YLfCElHzh5_4uOqgTooo2",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_ab_jun19"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "abJ19_fn": {
+      "directory": "abJ19_fn"
+    }
+  }
+}
