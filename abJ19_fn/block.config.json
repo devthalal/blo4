@@ -3,8 +3,8 @@
   "name": "abJ19_fn",
   "type": "function",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/devthalal/ab_jun19.git",
+    "ssh": "git@github.com:devthalal/ab_jun19.git",
     "branch": "block_abJ19_fn"
   },
   "parentBlockIDs": [
