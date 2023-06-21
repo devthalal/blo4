@@ -16,6 +16,9 @@
   "dependencies": {
     "abJ19_fn": {
       "directory": "abJ19_fn"
+    },
+    "abjsubpack": {
+      "directory": "abjsubpack"
     }
   }
 }
