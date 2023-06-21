@@ -17,7 +17,11 @@
   "isPublic": true,
   "dependencies": {
     "abjsubpack_fn": {
-      "directory": "abjsubpack_fn"
+      "directory": "abjsubpack_fn",
+      "versionId": "kQwU2PRKW2Jv4q4VtJvbx",
+      "version": "0.0.1"
     }
-  }
+  },
+  "version": "0.0.1",
+  "versionId": "hEPyW02ipSfhh5IXMw1si"
 }
