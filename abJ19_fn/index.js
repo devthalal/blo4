@@ -3,6 +3,8 @@
 const handler = async (event) => {
 
   const {req, res} = event
+
+  // test
   
   // health check
   if (req.params.health === "health") {
